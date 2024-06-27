@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+  >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_10sdp"
+        android:background="@drawable/cornerbackground"
+        android:padding="@dimen/_25sdp">
+
+        <TextView
+            style="@style/headertext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="Booked For"
+            android:textColor="@color/Black" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:layout_toStartOf="@id/time"
+            android:src="@drawable/ic_clk" />
+
+        <TextView
+            android:id="@+id/time"
+            style="@style/headertext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:drawableEnd="@drawable/dropdown"
+            android:drawablePadding="@dimen/_5sdp"
+            android:text="3.00 AM"
+            android:textColor="@color/Black" />
+
+
+    </RelativeLayout>
+
+</layout>

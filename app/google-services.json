@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369951977063",
+    "project_id": "jobstar-e9588",
+    "storage_bucket": "jobstar-e9588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369951977063:android:387ad8715632dc488a6ec2",
+        "android_client_info": {
+          "package_name": "com.JobStarEmployer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08_Q14eEjjCJHpn6RUPTggBscicxy5Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369951977063:android:1a861757e3f9b1bc8a6ec2",
+        "android_client_info": {
+          "package_name": "com.JobstarSeeker.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA08_Q14eEjjCJHpn6RUPTggBscicxy5Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

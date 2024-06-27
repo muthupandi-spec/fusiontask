@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+     >
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_marginEnd="@dimen/_10sdp"
+    android:padding="@dimen/_8sdp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/ovalbackground">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_clk"/>
+    <TextView
+        android:id="@+id/filtertxt"
+        android:layout_width="wrap_content"
+        android:layout_marginStart="@dimen/_5sdp"
+        android:textColor="@color/Black"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:text="Waiting For Confirmation"/>
+
+
+</LinearLayout>
+</layout>

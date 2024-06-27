@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">kotlinbase</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //customize font
+    <string name="app_font">OpenSans-Regular.ttf</string>
+    <string name="app_font_light">OpenSans-Light.ttf</string>
+    <string name="app_font_bold">OpenSans-Bold.ttf</string>
+    <string name="logintoyouraccount">Login To Your Account</string>
+    <string name="phoneno">Phone Number</string>
+    <string name="rememme">Remember Me</string>
+    <string name="signin">Sign In</string>
+    <string name="or_continue_with">or continue with</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="fill_your_profile">Fill Your Profile</string>
+    <string name="personaldetails">Personal Details</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="mob_num_text">Mobile Number</string>
+    <string name="email">Email</string>
+    <string name="aadharno">Aadhar Number</string>
+    <string name="businessname">Business Name</string>
+    <string name="businessdetail">Business Detail</string>
+    <string name="fssanumber">FSSAI Number</string>
+    <string name="panno">PAN Number</string>
+    <string name="gstno">GSTIN Number</string>
+    <string name="bankdetail">Bank Details</string>
+    <string name="businessaddress">Business Address</string>
+    <string name="accnumber">Account Number</string>
+    <string name="accname">Account Name</string>
+    <string name="ifsccode">IFSC Code</string>
+    <string name="continu">Continue</string>
+    <string name="shopdetail">Shop Detail</string>
+    <string name="restaurantname">Restaurant Name</string>
+    <string name="restaurantaddress">Restaurant Address</string>
+    <string name="restaurantdes">Restaurant Description</string>
+    <string name="shop_category">Shop Category</string>
+    <string name="preorder">Pre Order</string>
+    <string name="foodtype">Food Type</string>
+    <string name="mode">Mode</string>
+    <string name="gstapplicable">Gst Applicable</string>
+    <string name="servicetax">Service Tax</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
